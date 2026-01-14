@@ -14,3 +14,10 @@ social-network-links:
   linkedin: joão-azevedo-b394272a9
   bluesky: 9joao6
   itchio: 9joao6
+share-links-active:
+  github: true
+  twitter: true
+  youtube: true
+  linkedin: true
+  bluesky: true
+  itchio: true
