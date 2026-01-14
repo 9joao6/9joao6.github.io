@@ -1,3 +1,4 @@
+
 ⚠️ Under construction
 
 ---
@@ -35,10 +36,10 @@ A fully-featured demake of Nuclear Throne playable on mobile devices. Made with 
 
 A fully-featured Beat Saber remake mod for Nuclear Throne, including comprehensive support for various Beat Saber beatmap file format versions, as well as support for some of the most popular beatmap community plugins. Made with GameMaker
 
-[]()
-
 ---
 
-[]()
-
-Visit my [itch.io](https://9joao6.itch.io/) page for more projects
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cib-itch-io_%28CoreUI_Icons_v1.0.0%29.svg" width="32" height="32">](https://9joao6.itch.io)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Bluesky_logo_%28black%29.svg" width="32" height="32">](https://bsky.app/profile/9joao6.bsky.social)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Twitter_bird_logo_black.svg" width="32" height="32">](https://twitter.com/9joao6)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cib-youtube_%28CoreUI_Icons_v1.0.0%29.svg" width="32" height="32">](https://www.youtube.com/@9joao6)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Linkedin-png-linkedin-icon-1600.png" width="32" height="32">](https://www.linkedin.com/in/jo%C3%A3o-azevedo-b394272a9/)
